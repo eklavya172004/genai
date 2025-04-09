@@ -4,32 +4,6 @@
 
 A curated collection of Natural Language Processing and Generative AI resources, notebooks, and projects to facilitate learning and experimentation in the field of AI.
 
-## 📚 Repository Contents
-
-This repository contains Jupyter notebooks covering essential concepts in NLP and Generative AI:
-
-- **Tokenization** - Breaking text into meaningful units
-- **Parts of Speech Tagging** - Identifying grammatical components of sentences
-- **Stopwords** - Managing common words that typically don't contribute to meaning
-- **Stemming and Lemmatization** - Reducing words to their root forms
-- **Named Entity Recognition** - Identifying and classifying named entities in text
-- **Machine Learning Applications** - Using ML techniques with NLP
-
-## 🔍 Notebooks Overview
-
-| Notebook | Description |
-|----------|-------------|
-| `tokenization.ipynb` | Text tokenization techniques and implementations |
-| `partofspeech.ipynb` | Implementation of POS tagging using NLTK |
-| `stopwords.ipynb` | Working with stopwords in NLP pipelines |
-| `stemming.ipynb` | Word stemming and lemmatization techniques |
-| `namedPostag.ipynb` | Named entity recognition and advanced POS analysis |
-
-## 🛠️ Technologies Used
-
-- **Python** - Primary programming language
-- **NLTK** - Natural Language Toolkit for text processing
-- **Jupyter** - Interactive computing and documentation
 
 ## 🚀 Getting Started
 
