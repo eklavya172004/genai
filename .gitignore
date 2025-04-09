@@ -1,0 +1,51 @@
+# Ignore everything
+*
+
+# But not these ipynb files
+!*.ipynb
+
+# Don't ignore .gitignore itself
+!.gitignore
+
+# Ignore checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore Jupyter notebook checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore specific folders
+.idea/
+.vscode/
+__pycache__/
+venv/
+anaconda_project*/
+custom_nltk_data/
+nltk_data/
+*.zip
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignore PDF files
+*.pdf
